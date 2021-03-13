@@ -32,6 +32,7 @@ public class LoginStepDefination {
 		
 	    
 	}
+// code push by akash
 
 	@Then("^user enters userName And password$")
 	public void user_enters_userName_And_password() {
