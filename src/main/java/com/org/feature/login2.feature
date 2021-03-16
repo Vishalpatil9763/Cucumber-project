@@ -8,3 +8,4 @@ Then user click on the simple form demo link
 Then user is on form page
 Then user enters "good morning"
 Then user clicks on showmessage button
+Then user close the browser
